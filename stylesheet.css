@@ -1,0 +1,23 @@
+
+.header-logo{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrtwXCGHu-g2BAedlqzVqJ37ezhEGWhsklA&usqp=CAU) ;
+    font-family: "Avenir Next";
+    background-size: cover;
+}
+.header-list{
+    color: green;
+    font-size: 30px;
+}
+.container h4{
+    color: rgba(23, 201, 112, 0.733);
+    font-size: 25px;
+    font-size: xx-large;
+}
+.container li{
+    font-size: 25px;
+}
