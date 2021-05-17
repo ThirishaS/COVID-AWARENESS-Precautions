@@ -1,0 +1,39 @@
+
+.top-wrapper-logo{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    border-bottom: 2px solid gray;
+}
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmrtwXCGHu-g2BAedlqzVqJ37ezhEGWhsklA&usqp=CAU) ;
+    font-family: "Avenir Next";
+    background-size: cover;
+}
+.top-wrapper-list{
+    color: green;
+    font-size: 30px;
+}
+.container h4{
+    color: rgba(23, 201, 112, 0.733);
+    font-size: 25px;
+    font-size: xx-large;
+}
+.container li{
+    font-size: 25px;
+}
+.header-logo{
+    float:left;
+    font-size:50px;
+    padding:20px 40px;
+    color:red;
+    
+  }
+  .header-list {
+    float:left;
+    
+  }
+  .header-list a{
+    float:left;
+    padding:33px 20px;
+  }
